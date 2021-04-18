@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app-codeless" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app-market" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/draggable-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dragger" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dragger-plat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/form-generator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/scorpio-h5-design" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/star-ui-plat" vcs="Git" />
+  </component>
+</project>
